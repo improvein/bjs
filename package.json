@@ -1,0 +1,26 @@
+{
+  "name": "bjs",
+  "namespace": "improvein",
+  "version": "0.1.0",
+  "description": "Bitcoin Javascript API, mainly for browser interaction",
+  "main": "index.js",
+  "directories": {
+    "src": "./src"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "javascript",
+    "js",
+    "API"
+  ],
+  "author": "Improve-in",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoinjs-lib": "^3.3.2",
+    "xhr2": "^0.1.4",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
